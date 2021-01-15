@@ -251,3 +251,7 @@ pre {
   color: #0e101c;
   border-bottom: 2px solid !important;
 }
+
+.searchbar {
+  color: white;
+}
